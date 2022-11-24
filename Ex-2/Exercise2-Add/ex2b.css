@@ -1,0 +1,21 @@
+*{
+    padding:50;
+    margin:0;
+}
+
+.india
+{
+    
+    text-align: center;
+    /*height:50px;*/
+    padding:40px;
+
+    background-color:rgba(47, 0, 255, 0.418);
+    color:white;
+    
+}
+h4.world{
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+}
